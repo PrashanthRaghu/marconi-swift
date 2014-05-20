@@ -1,4 +1,4 @@
-Marconi Redis: Swift Back End for Marconi
+Marconi Swift: Swift Back End for Marconi
 *****************************************
 
 This project will help expand the storage backend options by adding Openstack Swift
