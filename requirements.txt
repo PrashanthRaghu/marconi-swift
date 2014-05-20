@@ -1,0 +1,7 @@
+six>=1.4.1
+python-swiftclient 
+oslo.config>=1.2.1
+
+-e git+https://github.com/openstack/marconi#egg=marconi
+
+
